@@ -1,24 +1,3 @@
-# my-vue-project
+# 동의대학교 25학번 정민혁 Amuz 과제제출
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 04.16 최초 등록
